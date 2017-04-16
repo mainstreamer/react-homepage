@@ -131,6 +131,13 @@ class Component01 extends Component {
                     </div>
                     <hr/>
 
+                    <div className="w3-card-2 w3-margin">
+                      <div className="w3-container w3-padding">
+                        <h4>Fresh sound of my choice <i className="fa fa-music"></i></h4>
+                      </div>
+                    <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aimainstreamer%3Aplaylist%3A55WV82ezmI4IJcsiKqABAI" width="100%" height="400" frameBorder="0" allowTransparency="true"></iframe>
+                    </div>
+
                       <div className="w3-card-2 w3-margin">
                         <div className="w3-container w3-padding">
                           <h4>Tags</h4>
