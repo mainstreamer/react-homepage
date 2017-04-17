@@ -97,7 +97,7 @@ class Component01 extends Component {
                     <div className="w3-card-2 w3-margin w3-margin-top" style={{"overflow":"hidden"}}>
                       <img src={profilePic} style={{"width":"100%", "marginTop" : "-263px" }} alt="Hertford town" />
                         <div className="w3-container w3-white">
-                          <h4><b>I am</b></h4>
+                          <h4><b>I am {"{"}{"%username%"}{"}"}</b></h4>
                           <p>Just me, myself and I, exploring the universe of uknownment. I have a heart of love and a interest to coding and travel. I want to share my world with you.</p>
                         </div>
                     </div><hr/>
