@@ -22,7 +22,7 @@ class Component01 extends Component {
               <div className="w3-content" style={{"maxWidth":"1400px"}}>
 
                 <header className="w3-container w3-center w3-padding-32">
-                  <h3 className="w3-hide"><b>Simplicity is the new sexy</b></h3>
+                  <h3 className="w3-hide"><b>English town life</b></h3>
                   <p>Welcome to <span className="w3-tag">unknown</span></p>
                 </header>
 
